@@ -5,4 +5,4 @@
 - This made by absolute begineer.
 - Project link - https://o7oqcg.csb.app/
 ## Language Used
-- ReactJs
+- React Js
